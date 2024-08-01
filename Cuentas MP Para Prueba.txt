@@ -1,0 +1,27 @@
+Cuentas MP Para Prueba:
+
+Usuario_Vendedor:
+TESTUSER288638977
+Contraseña:9IfnglZjpZ
+
+
+Usuario-Comprador:
+
+TESTUSER1405265789
+contraseña:btoTYWbGfn
+pruebacomprador32@gmail.com
+Verdoglio.98
+
+
+
+Datos Que se mandan por url una vez que el pago esta aprobado:
+collection_id=83922564717
+&collection_status=approved
+&payment_id=83922564717&
+status=approved
+&external_reference=null
+&payment_type=account_money
+&merchant_order_id=21332676629
+&preference_id=1921495539-d72e8ac5-24c6-49eb-b955-5e06b09abb38&site_id=MLA
+&processing_mode=aggregator
+&merchant_account_id=null
